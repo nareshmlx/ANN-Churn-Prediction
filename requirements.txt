@@ -1,6 +1,5 @@
 tensorflow==2.12.0
 pandas 
-pickle
 numpy 
 scikit-learn
 tensorboard
